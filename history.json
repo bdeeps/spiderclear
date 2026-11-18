@@ -1,0 +1,821 @@
+{
+  "title": "The history of the spider's web",
+  "tagline": "From a Greek philosopher's notes and a Roman myth to silk stockings, a spider in orbit, and a web that works as an ear.",
+  "intro": "People have watched spiders spin for thousands of years, long before anyone knew how. The first useful questions were practical: could the thread be worn, and could it be farmed? Later the questions turned to behaviour, to the chemistry of the fibre, and to why it is so tough. Today we can read the genes that make silk, measure a web as an instrument, and brew spider-silk protein in a tank. Several details are still argued over, and this history says so where they are.",
+  "eras": [
+    {
+      "id": "myth",
+      "name": "Myth and first notes",
+      "from": -350,
+      "to": 1700,
+      "color": "#c49bff",
+      "summary": "Greek philosophers write about spiders and Roman poets turn a weaver into one. Nobody yet knows what silk is made of."
+    },
+    {
+      "id": "cloth",
+      "name": "Silk for cloth",
+      "from": 1709,
+      "to": 2012,
+      "color": "#ffb547",
+      "summary": "In the 1700s, makers try to turn spider thread into stockings and gloves. A French scientist asks whether spiders could replace silkworms. A team in Madagascar later makes a golden cape from more than a million spiders."
+    },
+    {
+      "id": "watch",
+      "name": "Naming and watching",
+      "from": 1757,
+      "to": 2022,
+      "color": "#ff7a59",
+      "summary": "Spiders get proper names. Naturalists watch them drift through the air. Scientists test how drugs, gravity, electric fields and sound change what spiders build and how they sense it."
+    },
+    {
+      "id": "lab",
+      "name": "Silk in the lab",
+      "from": 1990,
+      "to": 2015,
+      "color": "#5ce1a9",
+      "summary": "Researchers read the genes for silk, learn how liquid protein becomes a fibre, and find why tiny crystals give silk its strength. Companies try to copy the process."
+    },
+    {
+      "id": "now",
+      "name": "Counting the world's spiders",
+      "from": 2000,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "An online catalogue now lists tens of thousands of species. More are described every year, and each new one may spin a new kind of web."
+    }
+  ],
+  "events": [
+    {
+      "year": -350,
+      "date": "mid-4th century BCE",
+      "era": "myth",
+      "art": "scroll",
+      "title": "Aristotle writes about spiders",
+      "who": "Aristotle",
+      "where": "Greece",
+      "country": "Greece",
+      "text": "Aristotle's History of Animals was written between the mid-4th century BCE and his death in 322 BCE. Its books on reproduction cover spiders along with other small land animals.",
+      "why": "Spiders were treated as animals worth careful study, not just as pests or omens.",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 8,
+      "date": "early 1st century CE",
+      "era": "myth",
+      "art": "string",
+      "title": "Arachne becomes a spider",
+      "who": "Ovid",
+      "where": "Rome",
+      "country": "Italy",
+      "text": "In Book Six of Ovid's Metamorphoses, the weaver Arachne boasts that she can out-weave the goddess Minerva. They hold a contest, and Minerva tears up her work and strikes her. Arachne hangs herself, and Minerva turns her into a spider.",
+      "why": "Arachne is the Greek word for spider, and it lives on in the name of the whole group, the arachnids.",
+      "sources": [
+        2,
+        3
+      ]
+    },
+    {
+      "year": 1709,
+      "date": "1709",
+      "era": "cloth",
+      "art": "string",
+      "title": "Stockings and gloves of spider silk",
+      "who": "François-Xavier Bon de Saint-Hilaire",
+      "where": "Montpellier, France",
+      "country": "France",
+      "text": "Bon, a Montpellier magistrate and naturalist, showed the Paris Academy of Sciences stockings and mittens made from spider silk. Réaumur's later memoir says this drew wide attention. The silk came from egg cocoons, not from webs.",
+      "why": "It was an early serious try at making cloth from spiders.",
+      "box": "silk",
+      "sources": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "year": 1710,
+      "date": "1710",
+      "era": "cloth",
+      "art": "word",
+      "key": true,
+      "title": "Could spiders replace silkworms?",
+      "who": "René-Antoine Ferchault de Réaumur",
+      "where": "France",
+      "country": "France",
+      "text": "Réaumur tested Bon's idea for the Paris Academy in a memoir on the silk of spiders. He found it hard to feed enough spiders, and crowded spiders ate each other. He judged the plan impractical.",
+      "why": "It set the question that silk engineers still work on: how do you make spider silk at scale?",
+      "box": "silk",
+      "sources": [
+        4,
+        7
+      ]
+    },
+    {
+      "year": 1757,
+      "date": "1757",
+      "era": "watch",
+      "art": "word",
+      "key": true,
+      "title": "The first book of spider names",
+      "who": "Carl Alexander Clerck",
+      "where": "Sweden",
+      "country": "Sweden",
+      "text": "Clerck's Svenska Spindlar (Swedish Spiders) of 1757 described 68 species that are still accepted today. Linnaeus adopted its names in 1758. The World Spider Catalog starts spider taxonomy from this book.",
+      "why": "Before spiders had stable names, nobody could be sure two people were studying the same animal.",
+      "sources": [
+        8,
+        9
+      ]
+    },
+    {
+      "year": 1788,
+      "date": "by 1788 (sources differ on when he began)",
+      "era": "cloth",
+      "art": "gear",
+      "title": "Reeling silk straight from the spider",
+      "who": "Ramón María Termeyer",
+      "where": "Milan, Italy",
+      "country": "Italy",
+      "text": "Termeyer, a Spanish Jesuit living in Italy, is credited with a device that reeled silk straight from live spiders. One source puts this about 50 years after 1709. Stockings knitted from his silk were sent to Charles III of Spain in 1788 but were lost on the way.",
+      "why": "Drawing silk from live spiders, not from egg sacs, is how the Madagascar cape was made two centuries later.",
+      "box": "silk",
+      "sources": [
+        10,
+        11
+      ]
+    },
+    {
+      "year": 1827,
+      "date": "1827",
+      "era": "watch",
+      "art": "wind",
+      "title": "Spiders sail on silk",
+      "who": "John Blackwall",
+      "where": "United Kingdom",
+      "country": "United Kingdom",
+      "text": "The arachnologist John Blackwall published in 1827 what Wikipedia describes as the first precise observations of ballooning. Young spiders of many kinds let out a thread, let the air take hold of it and drift away.",
+      "why": "It showed that silk is also a sail, which is how spiders reach new places, even remote islands.",
+      "box": "kinds",
+      "sources": [
+        12,
+        13
+      ]
+    },
+    {
+      "year": 1900,
+      "date": "later 1800s, and 1900",
+      "era": "cloth",
+      "art": "building",
+      "title": "A missionary and a bed canopy",
+      "who": "Paul Camboué",
+      "where": "Madagascar and Paris",
+      "country": "Madagascar",
+      "text": "Paul Camboué, a French Jesuit missionary and entomologist in Madagascar, built a device to reel silk from golden orb spiders. Silk was woven into bed hangings shown at the Paris Exposition of 1900. The originals are lost.",
+      "why": "Madagascar's golden orb spiders became the best-known source of workable spider silk.",
+      "sources": [
+        6,
+        14,
+        15
+      ]
+    },
+    {
+      "year": 1939,
+      "date": "1926–1931, published 1939",
+      "era": "watch",
+      "art": "wind",
+      "title": "Counting spiders in the sky",
+      "who": "P. A. Glick, US Department of Agriculture",
+      "where": "United States",
+      "country": "United States",
+      "text": "A US Department of Agriculture entomologist flew insect traps on aircraft from 1926 to 1931, mostly over Louisiana. The 1939 bulletin reports 28,739 specimens from Louisiana, with spiders and mites counted alongside insects.",
+      "why": "It showed that spiders and other small animals are common high in the air, not rare.",
+      "box": "kinds",
+      "sources": [
+        16,
+        12
+      ]
+    },
+    {
+      "year": 1969,
+      "date": "1969",
+      "era": "watch",
+      "art": "flask",
+      "title": "Spiders on drugs",
+      "who": "B. R. Mardikar, S. Srinivasan and J. H. Balwani",
+      "where": "India",
+      "country": "India",
+      "text": "Three researchers published a preliminary report in the Indian Journal of Medical Sciences on how drugs that act on the nervous system changed web building in a newly found Indian spider.",
+      "why": "A web records what the spider's nervous system was doing, which made it a test for drugs.",
+      "box": "build",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 1973,
+      "date": "1973 (launched 28 July)",
+      "era": "watch",
+      "art": "orbit",
+      "key": true,
+      "title": "Two spiders spin in orbit",
+      "who": "Judy Miles, with the Skylab 3 crew",
+      "where": "Skylab space station",
+      "country": "United States",
+      "text": "Judy Miles, a 17-year-old from Massachusetts, proposed the experiment. Two female garden spiders, Arabella and Anita, flew on Skylab 3. Arabella spun a first web after about a day. The space webs were finer than Earth webs and varied in thickness. NASA says Anita died in the last week of the mission, and other accounts say both died.",
+      "why": "It showed that spiders can build webs without gravity, and later tests found that a light helped them orient.",
+      "box": "build",
+      "sources": [
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "year": 1990,
+      "date": "1990",
+      "era": "lab",
+      "art": "molecule",
+      "key": true,
+      "title": "A silk gene is read",
+      "who": "M. Xu and Randolph V. Lewis",
+      "where": "Laramie, Wyoming, USA",
+      "country": "United States",
+      "text": "Xu and Lewis, at the University of Wyoming, published \"Structure of a protein superfiber: spider dragline silk\" in PNAS. They worked out the repeating protein sequence of dragline silk from the spider Nephila clavipes, using a partial cDNA clone.",
+      "why": "Once a silk sequence was known, people could ask how its repeating protein produces a fibre.",
+      "box": "silk",
+      "sources": [
+        21,
+        22
+      ]
+    },
+    {
+      "year": 1999,
+      "date": "1999",
+      "era": "lab",
+      "art": "flask",
+      "title": "Linking the sequence to the strength",
+      "who": "Cheryl Hayashi, Nancy Shipley and Randolph V. Lewis",
+      "where": "Laramie, Wyoming, USA",
+      "country": "United States",
+      "text": "Hayashi, Shipley and Lewis compared silk protein sequences and proposed which repeated motifs give strength and which give stretch.",
+      "why": "It turned a string of letters in a gene into a way of guessing which parts make silk stiff and which make it stretch.",
+      "box": "strength",
+      "sources": [
+        23
+      ]
+    },
+    {
+      "year": 2000,
+      "date": "2000, and 2014",
+      "era": "now",
+      "art": "word",
+      "title": "A catalogue of every spider",
+      "who": "Norman Platnick, then the Natural History Museum Bern",
+      "where": "New York, USA, and Bern, Switzerland",
+      "country": "Switzerland",
+      "text": "Norman Platnick put the World Spider Catalog online in 2000, hosted at the American Museum of Natural History. After he retired in 2014, the Natural History Museum Bern took it over and moved it into a database.",
+      "why": "One shared list lets scientists in different countries agree on what a species is.",
+      "sources": [
+        8,
+        24
+      ]
+    },
+    {
+      "year": 2001,
+      "date": "29 March 2001",
+      "era": "lab",
+      "art": "waterdrop",
+      "key": true,
+      "title": "How liquid becomes a fibre",
+      "who": "Fritz Vollrath and David P. Knight",
+      "where": "Oxford, England",
+      "country": "United Kingdom",
+      "text": "Vollrath and Knight reviewed the evidence in Nature that the liquid silk is liquid crystalline. This lets the spider draw it into a hardened fibre with little force.",
+      "why": "It helped explain how a spider turns watery protein into a fibre with no heat and no harsh chemicals.",
+      "box": "silk",
+      "sources": [
+        25,
+        26
+      ]
+    },
+    {
+      "year": 2002,
+      "date": "18 January 2002",
+      "era": "lab",
+      "art": "cell",
+      "title": "Silk proteins made by mammal cells",
+      "who": "A. Lazaris, C. N. Karatzas and colleagues",
+      "where": "Quebec, Canada",
+      "country": "Canada",
+      "text": "A team at Nexia Biotechnologies made soluble dragline silk proteins in mammal cells. They spun fibres 10 to 40 micrometres wide from the solution. The fibres matched natural silk in toughness and stiffness but were less strong.",
+      "why": "It showed that you do not need a spider to make a silk protein, only its gene.",
+      "box": "silk",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": 2010,
+      "date": "2010",
+      "era": "watch",
+      "art": "earth",
+      "title": "Darwin's bark spider gets its name",
+      "who": "Matjaž Kuntner and Ingi Agnarsson",
+      "where": "Madagascar",
+      "country": "Madagascar",
+      "text": "Kuntner and Agnarsson described a giant orb spider from Madagascar as Caerostris darwini in a 2010 paper, naming it for Charles Darwin. It spins webs over rivers and lakes, with anchor lines up to 25 m long and orbs up to 2.8 square metres.",
+      "why": "A web this big raised the question of what silk could hold it up.",
+      "box": "kinds",
+      "sources": [
+        28,
+        29
+      ]
+    },
+    {
+      "year": 2010,
+      "date": "2010",
+      "era": "lab",
+      "art": "lens",
+      "key": true,
+      "title": "The toughest silk yet",
+      "who": "Ingi Agnarsson, Matjaž Kuntner and Todd Blackledge",
+      "where": "Puerto Rico, USA, and Madagascar",
+      "country": "United States",
+      "text": "The team tested silk from Darwin's bark spider. Forcibly drawn silk averaged about 350 MJ/m3 in toughness, and some samples reached 520. The toughest earlier spider silk in their comparison was about 230, and Kevlar about 33. Tensile strength was about 1.6 GPa. These are lab values and vary from fibre to fibre.",
+      "why": "It beat every silk measured before it, and shows why a simple claim that silk beats steel hides the real numbers.",
+      "box": "strength",
+      "sources": [
+        30,
+        29
+      ]
+    },
+    {
+      "year": 2010,
+      "date": "2010",
+      "era": "lab",
+      "art": "molecule",
+      "key": true,
+      "title": "Why tiny crystals are tough",
+      "who": "Sinan Keten, Zhiping Xu, Britni Ihle and Markus Buehler",
+      "where": "Cambridge, Massachusetts, USA",
+      "country": "United States",
+      "text": "Computer models of silk's beta-sheet crystals, built from repeats of glycine and alanine, showed that crystals a few nanometres across are stiffer, stronger and tougher than larger ones. Weak hydrogen bonds share the load evenly and slip and stick again to absorb energy.",
+      "why": "It explained how a silk held together by weak bonds can be so tough: the crystals are small enough.",
+      "box": "strength",
+      "sources": [
+        31,
+        32
+      ]
+    },
+    {
+      "year": 2012,
+      "date": "2012",
+      "era": "cloth",
+      "art": "string",
+      "key": true,
+      "title": "A golden cape from a million spiders",
+      "who": "Simon Peers and Nicholas Godley",
+      "where": "Madagascar, shown in London",
+      "country": "Madagascar",
+      "text": "Simon Peers and Nicholas Godley began collecting golden orb silk in Madagascar in 2005. Teams gathered more than a million spiders, and silk was drawn from each for about 25 minutes before it was freed. The V&A showed the cape and a shawl in London from January to June 2012. About 23,000 spiders gave one ounce of thread. Sources differ on the spider count (1 to 1.2 million), the number of workers and the years it took (three or more).",
+      "why": "It proved that spiders can be milked for silk by hand, and that the effort is far too great to repeat at scale.",
+      "box": "silk",
+      "sources": [
+        33,
+        34,
+        6
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "2015",
+      "era": "lab",
+      "art": "flask",
+      "title": "A parka made from brewed silk protein",
+      "who": "Spiber and The North Face",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "A 2015 report described Spiber, a Japanese company that makes spider-silk protein in engineered microbes, purifies it as a powder and spins it into thread. It had teamed with The North Face on a Moon Parka and aimed to release it in 2016. The company had spent about eight years on research.",
+      "why": "It was a sign that silk protein made in tanks could reach shops, not just labs.",
+      "box": "silk",
+      "sources": [
+        35
+      ]
+    },
+    {
+      "year": 2018,
+      "date": "5 July 2018 online, 23 July 2018 issue",
+      "era": "watch",
+      "art": "bolt",
+      "key": true,
+      "title": "Electric fields launch spiders",
+      "who": "Erica Morley and Daniel Robert",
+      "where": "England",
+      "country": "United Kingdom",
+      "text": "Morley and Robert, at the University of Bristol, tested whether small spiders sense the electric field in the air and whether it triggers ballooning. A vertical electric field made the spiders balloon. Their body hairs also moved in weak fields.",
+      "why": "It points to a force other than wind that lifts spiders, even on calm days.",
+      "box": "kinds",
+      "sources": [
+        36,
+        37,
+        12
+      ]
+    },
+    {
+      "year": 2018,
+      "date": "7 May 2018",
+      "era": "watch",
+      "art": "string",
+      "title": "Did the orb web evolve once?",
+      "who": "Rosa Fernández, Gustavo Hormiga and colleagues",
+      "where": "Cambridge, Massachusetts, USA",
+      "country": "United States",
+      "text": "A study of about 2,500 genes from 159 spider species placed spiders on a family tree. Its authors said the results reject a single origin of the orb web and suggest it evolved several times. The question is not settled.",
+      "why": "It means the round web many people picture may have been invented more than once.",
+      "box": "kinds",
+      "sources": [
+        38
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "5 April 2022",
+      "era": "watch",
+      "art": "ear",
+      "key": true,
+      "title": "A web that hears",
+      "who": "Jian Zhou, Ronald Hoy, Ronald Miles and colleagues",
+      "where": "Binghamton and Ithaca, New York, USA",
+      "country": "United States",
+      "text": "A team showed that an orb-weaving spider hears partly through its web. The threads move with sound, and the spider senses that motion. The web can make the sound-sensing surface up to about 10,000 times larger than the spider. The spider can adjust the web and weave a new one when it is damaged.",
+      "why": "It turned the web from a trap into a sense organ.",
+      "box": "sensor",
+      "sources": [
+        39,
+        40
+      ]
+    },
+    {
+      "year": 2026,
+      "date": "November 2026",
+      "era": "now",
+      "art": "earth",
+      "title": "More than 54,000 species and counting",
+      "who": "World Spider Catalog",
+      "where": "Bern, Switzerland",
+      "country": "Switzerland",
+      "text": "In November 2026 the World Spider Catalog (version 27) listed 54,251 species. Its history page says about 900 new species are described each year. Counts quoted for earlier years differ by source.",
+      "why": "Each new species may spin a new kind of web or silk.",
+      "sources": [
+        24,
+        8
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Valid spider names in the Linnaean system",
+      "value": "1757",
+      "who": "Carl Alexander Clerck, Sweden"
+    },
+    {
+      "label": "Spider webs spun in space",
+      "value": "1973",
+      "who": "Arabella and Anita, Skylab 3, a student experiment by Judy Miles"
+    },
+    {
+      "label": "Early dragline silk protein sequence (partial cDNA)",
+      "value": "1990",
+      "who": "Xu and Lewis, USA"
+    },
+    {
+      "label": "Toughest silk measured in 2010, about 350 MJ/m3",
+      "value": "2010",
+      "who": "Darwin's bark spider, Madagascar"
+    }
+  ],
+  "people": [
+    {
+      "name": "Aristotle",
+      "life": "384 – 322 BCE",
+      "role": "Philosopher and naturalist",
+      "from": "Greece",
+      "note": "Wrote about spiders and their breeding in History of Animals."
+    },
+    {
+      "name": "François-Xavier Bon de Saint-Hilaire",
+      "life": "1678 – 1761",
+      "role": "Magistrate and naturalist",
+      "from": "France",
+      "note": "Showed stockings and mittens made of spider egg-sac silk to the Paris Academy in 1709."
+    },
+    {
+      "name": "René-Antoine Ferchault de Réaumur",
+      "life": "1683 – 1757",
+      "role": "Scientist",
+      "from": "France",
+      "note": "Tested in 1710 whether spiders could replace silkworms."
+    },
+    {
+      "name": "Ramón María Termeyer",
+      "life": "1737 – after 1814",
+      "role": "Jesuit naturalist",
+      "from": "Spain",
+      "note": "Credited with reeling silk directly from living spiders."
+    },
+    {
+      "name": "Carl Alexander Clerck",
+      "life": "1709 – 1765",
+      "role": "Arachnologist",
+      "from": "Sweden",
+      "note": "Wrote the first book of valid spider names."
+    },
+    {
+      "name": "Judy Miles",
+      "life": "",
+      "role": "Student investigator",
+      "from": "Lexington, Massachusetts, USA",
+      "note": "Proposed, at 17, the experiment that sent two spiders to Skylab."
+    },
+    {
+      "name": "Paul Camboué",
+      "life": "1849 – 1929",
+      "role": "Jesuit missionary and entomologist",
+      "from": "France",
+      "note": "Built a device in Madagascar to reel silk from golden orb spiders."
+    },
+    {
+      "name": "B. R. Mardikar, S. Srinivasan and J. H. Balwani",
+      "life": "",
+      "role": "Researchers",
+      "from": "India",
+      "note": "Reported on drugs and web building in an Indian spider."
+    },
+    {
+      "name": "Cheryl Hayashi",
+      "life": "",
+      "role": "Biologist",
+      "from": "USA",
+      "note": "Co-author of work linking the repeats in silk genes to the properties of the fibre."
+    },
+    {
+      "name": "Fritz Vollrath",
+      "life": "",
+      "role": "Zoologist",
+      "from": "England",
+      "note": "Co-author of the paper showing silk is spun from a liquid crystal."
+    },
+    {
+      "name": "Ingi Agnarsson and Matjaž Kuntner",
+      "life": "",
+      "role": "Spider biologists",
+      "from": "Iceland and Slovenia",
+      "note": "Named Darwin's bark spider and tested its record-breaking silk."
+    },
+    {
+      "name": "Erica Morley",
+      "life": "",
+      "role": "Researcher",
+      "from": "England",
+      "note": "Showed with Daniel Robert that electric fields can trigger ballooning."
+    }
+  ],
+  "series": [
+    {
+      "id": "species",
+      "title": "Spider species described and accepted",
+      "unit": "species",
+      "log": false,
+      "after": "now",
+      "caption": "The list of known spider species grew from 68 in Clerck's book to more than 54,000 today.",
+      "points": [
+        {
+          "year": 1757,
+          "value": 68,
+          "label": "Clerck's Svenska Spindlar: 68 species still accepted"
+        },
+        {
+          "year": 2026,
+          "value": 54251,
+          "label": "World Spider Catalog, November 2026 (version 27)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "It took about 23,000 spiders to give one ounce of thread for the Madagascar cape. Each spider was freed after a session of about 25 minutes.",
+    "Darwin's bark spider anchors its web with bridge lines up to 25 m long, strung across rivers.",
+    "Spider silk has been used as the fine crosshair thread in telescopes, microscopes and rifle sights. Sources give no dates.",
+    "Spiders sensing a web's vibrations can use it as an outer ear: the sound-sensing surface can be up to about 10,000 times the spider's own."
+  ],
+  "sources": [
+    {
+      "title": "The History of Animals (Aristotle, trans. D'Arcy Wentworth Thompson)",
+      "publisher": "MIT Internet Classics Archive",
+      "url": "http://classics.mit.edu/Aristotle/history_anim.html"
+    },
+    {
+      "title": "History of Animals",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Animals"
+    },
+    {
+      "title": "Ovid, Metamorphoses, Book 6 (Golding translation)",
+      "publisher": "Perseus Digital Library, Tufts University",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Ov.+Met.+6.1-145"
+    },
+    {
+      "title": "Arachne",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Arachne"
+    },
+    {
+      "title": "Histoire de l'Académie royale des sciences, avec les mémoires de mathématique et de physique (year 1710, including Réaumur's \"Examen de la Soye des Araignées\")",
+      "publisher": "Académie royale des sciences, Paris (digitised by the Internet Archive)",
+      "url": "https://archive.org/details/histoiredelacad10laca"
+    },
+    {
+      "title": "François Xavier Bon de Saint Hilaire",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Francois_Xavier_Bon_de_Saint_Hilaire"
+    },
+    {
+      "title": "The Tangled History of Weaving with Spider Silk",
+      "publisher": "JSTOR Daily",
+      "url": "https://daily.jstor.org/the-tangled-history-of-weaving-with-spider-silk"
+    },
+    {
+      "title": "René Antoine Ferchault de Réaumur",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Antoine_Ferchault_de_R%C3%A9aumur"
+    },
+    {
+      "title": "History of WSC",
+      "publisher": "World Spider Catalog, Natural History Museum Bern",
+      "url": "https://arachnology.org/arachnology/wsc/history-of-wsc"
+    },
+    {
+      "title": "Carl Alexander Clerck",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carl_Alexander_Clerck"
+    },
+    {
+      "title": "Ramon Maria Termeyer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Mar%C3%ADa_Termeyer"
+    },
+    {
+      "title": "Spider silk",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spider_silk"
+    },
+    {
+      "title": "Ballooning (spider)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ballooning_(spider)"
+    },
+    {
+      "title": "John Blackwall",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Blackwall"
+    },
+    {
+      "title": "A brief history of harvesting spider silk",
+      "publisher": "Piecework Magazine",
+      "url": "https://pieceworkmagazine.com/a-brief-history-of-harvesting-spider-silk/"
+    },
+    {
+      "title": "Paul Camboué",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Paul_Camboué"
+    },
+    {
+      "title": "Distribution of Insects, Spiders, and Mites in the Air (Technical Bulletin 673)",
+      "publisher": "US Department of Agriculture, 1939 (digitised by the Internet Archive)",
+      "url": "https://archive.org/details/distributionofin00glic"
+    },
+    {
+      "title": "Effect of centrally acting drugs on the web building activity of a new species of an Indian spider: a preliminary report",
+      "publisher": "Indian Journal of Medical Sciences (PubMed record)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/5346475/"
+    },
+    {
+      "title": "View of Arabella, one of two Skylab spiders and her web",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/image-detail/amf-sl3-108-1307/"
+    },
+    {
+      "title": "Skylab 3",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Skylab_3"
+    },
+    {
+      "title": "First spider web in space",
+      "publisher": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/first-spider-web-in-space"
+    },
+    {
+      "title": "Structure of a protein superfiber: spider dragline silk",
+      "publisher": "Proceedings of the National Academy of Sciences (via PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC54695/"
+    },
+    {
+      "title": "Structure of a protein superfiber: spider dragline silk (PubMed record)",
+      "publisher": "National Library of Medicine (PubMed)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2402494/"
+    },
+    {
+      "title": "Hypotheses that correlate the sequence, structure, and mechanical properties of spider silk proteins",
+      "publisher": "International Journal of Biological Macromolecules (PubMed record)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10342774/"
+    },
+    {
+      "title": "World Spider Catalog",
+      "publisher": "Natural History Museum Bern",
+      "url": "https://wsc.nmbe.ch/"
+    },
+    {
+      "title": "Liquid crystalline spinning of spider silk",
+      "publisher": "Nature",
+      "url": "https://doi.org/10.1038/35069000"
+    },
+    {
+      "title": "Liquid crystalline spinning of spider silk (PubMed record)",
+      "publisher": "National Library of Medicine (PubMed)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11279484/"
+    },
+    {
+      "title": "Spider silk fibers spun from soluble recombinant silk produced in mammalian cells",
+      "publisher": "Science (PubMed record)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11799236/"
+    },
+    {
+      "title": "Darwin's bark spider",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Darwin%27s_bark_spider"
+    },
+    {
+      "title": "Bioprospecting finds the toughest biological material (PubMed record)",
+      "publisher": "National Library of Medicine (PubMed)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20856804/"
+    },
+    {
+      "title": "Bioprospecting finds the toughest biological material: extraordinary silk from a giant riverine orb spider",
+      "publisher": "PLoS ONE (via PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2939878/"
+    },
+    {
+      "title": "Nanoconfinement controls stiffness, strength and mechanical toughness of beta-sheet crystals in silk (PubMed record)",
+      "publisher": "National Library of Medicine (PubMed)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20228820/"
+    },
+    {
+      "title": "Nanoconfinement controls stiffness, strength and mechanical toughness of beta-sheet crystals in silk",
+      "publisher": "Nature Materials",
+      "url": "https://doi.org/10.1038/nmat2704"
+    },
+    {
+      "title": "Golden spider silk",
+      "publisher": "Victoria and Albert Museum",
+      "url": "https://www.vam.ac.uk/articles/golden-spider-silk"
+    },
+    {
+      "title": "Golden Spider Silk Cape",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Golden_Spider_Silk_Cape"
+    },
+    {
+      "title": "Japanese company spins greener alternative to synthetic fibers with genetically engineered spider silk",
+      "publisher": "American Ceramic Society",
+      "url": "https://ceramics.org/ceramic-tech-today/japanese-company-spins-greener-alternative-to-synthetic-fibers-with-genetically-engineered-spider-silk/"
+    },
+    {
+      "title": "Electric fields elicit ballooning in spiders",
+      "publisher": "Current Biology (via PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6065530/"
+    },
+    {
+      "title": "Electric fields elicit ballooning in spiders (PubMed record)",
+      "publisher": "National Library of Medicine (PubMed)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29983315/"
+    },
+    {
+      "title": "Phylogenomics, diversification dynamics, and comparative transcriptomics across the spider tree of life",
+      "publisher": "Current Biology (PubMed record)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29706520/"
+    },
+    {
+      "title": "Outsourced hearing in an orb-weaving spider that uses its web as an auditory sensor",
+      "publisher": "Proceedings of the National Academy of Sciences (via PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9169088/"
+    },
+    {
+      "title": "Outsourced hearing in an orb-weaving spider that uses its web as an auditory sensor (PubMed record)",
+      "publisher": "National Library of Medicine (PubMed)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35349337/"
+    }
+  ]
+}

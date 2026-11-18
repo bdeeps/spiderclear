@@ -1,0 +1,110 @@
+{
+  "slug": "spiderclear",
+  "box": 219,
+  "date": "2026-11-16",
+  "title": "SpiderClear",
+  "question": "How do spiders spin a web?",
+  "hook": "A spider turns a runny protein liquid into a thread, then builds a trap out of it in about an hour. Follow the six steps of an orb web, find out why silk is tough, and feel a fly land through the threads.",
+  "thumbText": "HOW SPIDERS SPIN",
+  "field": "nature",
+  "minutes": 14,
+  "tags": [
+    "spider",
+    "spider web",
+    "silk",
+    "orb web",
+    "spinneret",
+    "nature",
+    "biology",
+    "materials",
+    "vibration",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Liquid in, thread out",
+      "text": "Spider silk starts as a thick solution of protein in a gland, about 30 to 50 percent protein. It flows down a narrowing duct where it becomes more acidic, loses water and is stretched. The proteins line up, tiny crystals form, and a solid fibre is pulled from a spinneret. One spider can make up to seven kinds of silk, each from its own gland."
+    },
+    {
+      "title": "Six steps to a web",
+      "text": "An orb weaver follows one recipe. The wind carries a bridge thread across a gap. She drops a Y from its middle, then adds a frame, then radii like spokes. A loose scaffold spiral of dry silk holds them in place. Last, she lays sticky thread from the outside in, cutting the scaffold away as she goes."
+    },
+    {
+      "title": "Strong, and very tough",
+      "text": "Dragline silk is about as strong as good steel wire, at around 1 to 1.8 gigapascals, but it is a sixth as dense. It is much weaker than Kevlar. What sets it apart is toughness: it stretches about 30 percent, so it soaks up around 100 to 180 megajoules per cubic metre, against about 50 for Kevlar."
+    },
+    {
+      "title": "Crystals and springs",
+      "text": "The same protein has two kinds of block. Short stiff blocks stack into beta-sheet crystals a few nanometres across, which are hard anchors. Long floppy blocks between them form a tangle that uncoils like a spring. Crystals give strength and the tangle gives stretch. The toughest known silk, from Darwin's bark spider, averages about 350 megajoules per cubic metre."
+    },
+    {
+      "title": "A web is an ear",
+      "text": "Many orb weavers see poorly. They feel the web with slit-shaped strain sensors near their leg joints. A landing fly, a struggling one, a falling leaf, a courting male and a gust each make a different vibration. A tighter web carries vibrations faster, and the spider can adjust the tension herself."
+    },
+    {
+      "title": "Other webs, and eating the old one",
+      "text": "Sheet webs, funnel webs and cobwebs are other ways to use silk. Bolas spiders swing a ball of glue and baby spiders sail away on silk. An orb web wears out in a day, so many orb weavers eat it and use the protein to make new silk. The glue draws water from humid air, dew beads on the threads, and light rain only makes the web sway."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Spinning dope",
+      "def": "The thick protein solution in the silk gland, before it becomes a fibre."
+    },
+    {
+      "term": "Spinneret",
+      "def": "A finger-like organ at the back of the abdomen with many tiny spigots. Most spiders have six, in three pairs."
+    },
+    {
+      "term": "Dragline",
+      "def": "The strong silk for safety lines, the web frame and the radii. It comes from the major ampullate gland."
+    },
+    {
+      "term": "Beta-sheet crystal",
+      "def": "A flat stack of protein chains, a few nanometres across, that gives silk its strength."
+    },
+    {
+      "term": "Toughness",
+      "def": "The energy a material absorbs before it breaks. Silk is tougher than steel or Kevlar because it stretches."
+    },
+    {
+      "term": "Radii",
+      "def": "The spokes of an orb web. They are stiff dragline silk and carry vibrations to the hub."
+    },
+    {
+      "term": "Auxiliary spiral",
+      "def": "A temporary non-sticky spiral that holds the radii in place until the sticky spiral is laid."
+    },
+    {
+      "term": "Capture spiral",
+      "def": "The sticky thread that catches prey, with a stretchy core and glue droplets. It is laid from the outside in."
+    },
+    {
+      "term": "Lyriform organ",
+      "def": "A group of tiny slits in a spider's leg that sense strain, and so vibration."
+    },
+    {
+      "term": "Ballooning",
+      "def": "Travel by silk: a young spider lets out threads that lift it into the air."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "spiderclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
